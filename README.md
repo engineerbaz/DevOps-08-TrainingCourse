@@ -1,2 +1,9 @@
 # DevOps-08-TrainingCourse
-Repo for Batch 08 of DevOps Course with Sherdil IT Academy
+This repository is Repo for Batch 08 of DevOps Course with Sherdil IT Academy
+
+- Linux 
+- Git 
+- Ansible 
+- Jenkins 
+- Docker
+- Kubernetes
