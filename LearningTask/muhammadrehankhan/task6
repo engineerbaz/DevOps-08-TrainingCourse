@@ -1,0 +1,72 @@
+ubuntu $ ls
+filesystem  shellfile
+ubuntu $ bash shellfile 
+ Enter Your Physics Marks : 45
+Pass
+ Enter Your Chemistry Marks : 67
+Pass
+ Enter Your Math Marks : 32
+Fail
+ Enter Your Biology Marks : 36
+Pass
+ubuntu $
+ubuntu $
+ubuntu $
+ubuntu $ cat shellfile 
+#!/bin/bash
+
+echo -n " Enter Your Physics Marks : "
+
+read Physics
+
+if [[ $Physics -gt 33 ]];
+then 
+echo "Pass"
+
+else 
+echo "Fail"
+
+fi
+
+
+echo -n " Enter Your Chemistry Marks : "
+
+read Chemistry
+
+if [[ $Chemistry -gt 33 ]];
+then
+echo "Pass"
+
+else
+echo "Fail"
+
+fi
+
+
+echo -n " Enter Your Math Marks : "
+
+read Math
+
+if [[ $Math -gt 33 ]];
+then
+echo "Pass"
+
+else
+echo "Fail"
+
+fi
+
+
+echo -n " Enter Your Biology Marks : "
+
+read Biology
+
+if [[ $Biology -gt 33 ]];
+then
+echo "Pass"
+
+else
+echo "Fail"
+
+fi
+ubuntu $ 
