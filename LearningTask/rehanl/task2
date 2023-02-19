@@ -1,0 +1,14 @@
+rehan@ops:~$ mkdir task3
+rehan@ops:~$ cd task3/
+rehan@ops:~/task3$ ls
+rehan@ops:~/task3$ mkdir employe{100..145}
+rehan@ops:~/task3$ ls
+employe100  employe108  employe116  employe124  employe132  employe140
+employe101  employe109  employe117  employe125  employe133  employe141
+employe102  employe110  employe118  employe126  employe134  employe142
+employe103  employe111  employe119  employe127  employe135  employe143
+employe104  employe112  employe120  employe128  employe136  employe144
+employe105  employe113  employe121  employe129  employe137  employe145
+employe106  employe114  employe122  employe130  employe138
+employe107  employe115  employe123  employe131  employe139
+rehan@ops:~/task3$ 
