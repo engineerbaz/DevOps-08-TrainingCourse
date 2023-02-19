@@ -1,6 +1,6 @@
 1- $  adduser Abdullah
 2- $  
-3- $ usermod -aG sudo Alex
+3- $ usermod -aG sudo Alex; sudo apt update; sudo apt install nginx; sudo apt install git;  sudo apt-get --auto-remove git
 4- $ adduser raffeh; useradd -m user2; usermod-aG sudo raffeh;
 5- $ chmod 700 file1
 
