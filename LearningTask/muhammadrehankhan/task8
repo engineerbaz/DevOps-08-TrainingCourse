@@ -1,0 +1,20 @@
+ubuntu $ date    
+Sun Feb 19 13:00:11 UTC 2023
+ubuntu $ alias d=date
+ubuntu $ d
+Sun Feb 19 13:00:25 UTC 2023
+ubuntu $ whoami
+root
+ubuntu $ alias im=whoami
+ubuntu $ im
+root
+ubuntu $ hostname 
+ubuntu
+ubuntu $ hostname -i
+127.0.0.1
+ubuntu $ alias hname=hostname
+ubuntu $ hname
+ubuntu
+ubuntu $ hname -i
+127.0.0.1
+ubuntu $ 
