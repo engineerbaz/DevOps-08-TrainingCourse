@@ -1,0 +1,65 @@
+ls
+	list directories
+pwd
+	Print working directory command 
+cd 
+	change directories
+mkdir
+	making create directories in Linux
+mv
+	move or rename files
+cp
+	 copying files
+rm 
+	Delete files and directories
+touch
+	Create empty files
+ln
+	symbolic link
+cat
+	create file add contents on the file
+clear 
+	Clear the terminal display
+echo 
+	Print any text
+man
+	manual pages all Linux command
+whoami
+	active username
+tar
+	extract and compress files
+grep - Search for a Data within an output
+head
+	lines from the top
+tail
+	lines from the bottom
+diff
+	Findout difference between two files
+zip
+	Zip file
+unzip
+	Unzip file
+systemctl 
+	controll system linux
+ps
+	active processes
+chmod
+	change permission fieless and directories
+chown
+	change ownership 
+ifconfig
+	find network interfaces and IP addresses
+wget
+	download application from the internet
+ufw  
+	Firewall command
+apt & yum
+	 Package managers 
+cal 
+	calendar
+alias - Create custom shortcuts for daily used commands
+useradd 
+	add user 
+usermod
+	change existing users data
+passwd - Create passwords for users
