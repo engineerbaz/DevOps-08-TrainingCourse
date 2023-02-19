@@ -1,0 +1,18 @@
+1- $  adduser Abdullah
+2- $  
+3- $ usermod -aG sudo Alex
+4- $ adduser raffeh; useradd -m user2; usermod-aG sudo raffeh;
+5- $ chmod 700 file1
+
+
+
+
+
+
+
+
+Being Linux Admin, You need to support newly joined Abdullah as Engineer in network department for creating its user credentials , his phone number is 123-456789 and room number is 23
+Boss has to create 45 Directories with name of employee+number and number should start after 100
+Alex needs to install packages for nginx and git and remove nginx. Also update system first.
+Create 2 users (user1 with sudo rights and yourname is normal) and user1 should add user3
+Modify Folder1 and file1 permission so only owner can aceess.
