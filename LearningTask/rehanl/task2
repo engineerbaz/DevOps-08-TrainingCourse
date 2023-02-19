@@ -1,0 +1,25 @@
+sudo adduser abdullah
+Adding user `abdullah' ...
+Adding new group `abdullah' (1003) ...
+Adding new user `abdullah' (1003) with group `abdullah' ...
+Creating home directory `/home/abdullah' ...
+Copying files from `/etc/skel' ... 
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for abdullah
+Enter the new value, or press ENTER for the default
+	Full Name []: Abdullah
+	Room Number []: 23
+	Work Phone []: 123-456789      
+	Home Phone []: 123-456789
+	Other []: credentials     
+Is the information correct? [Y/n] n
+Changing the user information for abdullah
+Enter the new value, or press ENTER for the default
+	Full Name [Abdullah]: 
+	Room Number [23]: 
+	Work Phone [123-456789]: 
+	Home Phone [123-456789]: 
+	Other [credentials]: network department
+Is the information correct? [Y/n] y
