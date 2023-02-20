@@ -1,0 +1,13 @@
+ubuntu $ uname -sr
+Linux 5.4.0-131-generic
+ubuntu $ apt get update
+E: Invalid operation get
+ubuntu $ apt-get update
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Get:2 http://archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]    
+Get:3 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Get:4 http://archive.ubuntu.com/ubuntu focal-backports InRelease [108 kB]
+Get:5 http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages [2384 kB]
+Fetched 2720 kB in 3s (841 kB/s)   
+Reading package lists... Done
+ubuntu $ 

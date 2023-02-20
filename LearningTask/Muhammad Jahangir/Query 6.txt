@@ -1,0 +1,42 @@
+ubuntu $ ls
+file  file001.sh  file01.sh  filesystem
+ubuntu $ ls -l
+total 4
+-rw-r--r-- 1 root root   0 Feb 19 21:06 file
+-rwxr-xr-x 1 root root 298 Feb 19 21:11 file001.sh
+-rw-r--r-- 1 root root   0 Feb 19 21:06 file01.sh
+lrwxrwxrwx 1 root root   1 Jan 26 14:14 filesystem -> /
+ubuntu $ nano cal.sh
+ubuntu $ chmod +x cal.sh
+ubuntu $ ls -l
+total 8
+-rwxr-xr-x 1 root root 298 Feb 19 21:20 cal.sh
+-rw-r--r-- 1 root root   0 Feb 19 21:06 file
+-rwxr-xr-x 1 root root 298 Feb 19 21:11 file001.sh
+-rw-r--r-- 1 root root   0 Feb 19 21:06 file01.sh
+lrwxrwxrwx 1 root root   1 Jan 26 14:14 filesystem -> /
+ubuntu $ ./cal.sh
+Enter the first number: 
+1
+Enter the second number: 
+2
+Enter the third number: 
+3
+The sum of 1, 2, and 3 is: 6
+The result of (1 + 2 + 3) * 3 is: 18
+ubuntu $ 
+______________________________________________________________________________________
+echo "Enter the first number: "
+read num1
+
+echo "Enter the second number: "
+read num2
+
+echo "Enter the third number: "
+read num3
+
+sum=$((num1 + num2 + num3))
+result=$((sum * num3))
+
+echo "The sum of $num1, $num2, and $num3 is: $sum"
+echo "The result of ($num1 + $num2 + $num3) * $num3 is: $result"

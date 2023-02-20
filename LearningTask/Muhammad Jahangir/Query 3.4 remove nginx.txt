@@ -1,0 +1,16 @@
+ubuntu $ apt remove nginx
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  fontconfig-config fonts-dejavu-core libfontconfig1 libgd3 libjbig0 libjpeg-turbo8 libjpeg8 libnginx-mod-http-image-filter
+  libnginx-mod-http-xslt-filter libnginx-mod-mail libnginx-mod-stream libtiff5 libwebp6 libxpm4 nginx-common nginx-core
+Use 'apt autoremove' to remove them.
+The following packages will be REMOVED:
+  nginx
+0 upgraded, 0 newly installed, 1 to remove and 82 not upgraded.
+After this operation, 46.1 kB disk space will be freed.
+Do you want to continue? [Y/n] y
+(Reading database ... 73012 files and directories currently installed.)
+Removing nginx (1.18.0-0ubuntu1.4) ...
+ubuntu $ 

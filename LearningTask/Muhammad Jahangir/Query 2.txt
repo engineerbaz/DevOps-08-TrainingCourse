@@ -1,0 +1,5 @@
+ubuntu $ echo mkdir{100..145}
+mkdir100 mkdir101 mkdir102 mkdir103 mkdir104 mkdir105 mkdir106 mkdir107 mkdir108 mkdir109 mkdir110 mkdir111 mkdir112 mkdir113
+ mkdir114 mkdir115 mkdir116 mkdir117 mkdir118 mkdir119 mkdir120 mkdir121 mkdir122 mkdir123 mkdir124 mkdir125 mkdir126 mkdir127
+ mkdir128 mkdir129 mkdir130 mkdir131 mkdir132 mkdir133 mkdir134 mkdir135 mkdir136 mkdir137 mkdir138 mkdir139 mkdir140 mkdir141
+ mkdir142 mkdir143 mkdir144 mkdir145
