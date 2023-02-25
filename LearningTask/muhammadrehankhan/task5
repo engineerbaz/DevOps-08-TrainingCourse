@@ -1,3 +1,5 @@
+$ Code for Task 5
+```
 ubuntu $ mkdir folder1
 ubuntu $ touch file1
 ubuntu $ ll
@@ -32,3 +34,4 @@ drwxr-xr-x  6 root root 4096 Feb 19 11:38 .theia/
 -rwx------  1 root root    0 Feb 19 11:38 file1*
 lrwxrwxrwx  1 root root    1 Jan 26 14:14 filesystem -> //
 drwx------  2 root root 4096 Feb 19 11:38 folder1/
+```
