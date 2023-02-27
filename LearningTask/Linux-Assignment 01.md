@@ -1,11 +1,14 @@
 # Linux - Assignment
+----
 
-Good Day!
+_Good Day!_
 
 Dear All, 
-Here is the Linux assignment, complete these tasks and share output  (file/Picture/code)
+Here is the **Linux assignment**, complete these tasks and share output  (file/Picture/code) via Google drive to TA (Mr. Hassan)
 
-Due Date: 20230303-2303
+**Due Date: 20230303-2303**
+
+**TASKS**
 
 1. Find out operating system you are running using command.
 2. Create a user **Tom**
@@ -19,6 +22,7 @@ Due Date: 20230303-2303
 
 Lastly print the whole content on the screen in a file.
 
+_Good Luck :)_
 -----
 
 
