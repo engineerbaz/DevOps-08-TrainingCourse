@@ -6,7 +6,7 @@ _Good Day!_
 Dear All, 
 Here is the **Linux assignment**, complete these tasks and share output  (file/Picture/code) via Google drive to TA (Mr. Hassan)
 
-**Due Date: 20230303-2303**
+Due Date: **3rd March 2023-2359 PKT**
 
 **TASKS**
 
