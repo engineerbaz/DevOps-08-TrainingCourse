@@ -1,0 +1,24 @@
+# Linux - Assignment
+
+Good Day!
+
+Dear All, 
+Here is the Linux assignment, complete these tasks and share output  (file/Picture/code)
+
+Due Date: 20230303-2303
+
+1. Find out operating system you are running using command.
+2. Create a user "Tom"
+   1. bash as default shell
+   2. create new group named "docker" and add "Tom" to it (Install Docker First)
+3. Change the permission for Tom to have full access to `/tmp/vault` and docker group to read only. 
+4. Create aliases as  k=kubectl and  d=docker
+5. create a directory in /tmp named as mydocs & copy the whole /etc directory in it & find size of it.
+6. use appropriate command to append the text “I have completed my assignment on $(date)” in your file without opening it.
+7. A bash script to print Tom Score Sheet by taking appropiate inputs.
+
+Lastly print the whole content on the screen in a file.
+
+-----
+
+
