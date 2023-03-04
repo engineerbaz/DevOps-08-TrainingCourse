@@ -15,6 +15,7 @@ To check Git Version
 
 # CONFIGURE
 
+'''
 git config --global color.ui "auto"
 git config --global user.name “John"
 git config user.name “Jonny" (for local only)
@@ -24,7 +25,8 @@ git config --list
 git config --global core.editor "editor_path"
 
  git config --list --show-origin
-
+'''
+Start
 # START GIT
 
 git init
