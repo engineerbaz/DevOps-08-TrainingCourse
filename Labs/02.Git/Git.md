@@ -1,10 +1,16 @@
 
 # INSTALL GIT
 
-sudo yum remove git*
+`sudo yum remove git*` 
+For removing existing Git 
+
+## Installation of Git 
+```
 sudo yum -y install https://packages.endpointdev.com/rhel/7/os/x86_64/endpoint-repo.x86_64.rpm
 sudo yum -y install git
-git --version
+```
+To check Git Version
+`git --version`
 
 
 # CONFIGURE
