@@ -15,7 +15,7 @@ To check Git Version
 
 # CONFIGURE
 
-```
+```shell
 git config --global color.ui "auto"
 git config --global user.name “John"
 git config user.name “Jonny" (for local only)
