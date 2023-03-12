@@ -1,1 +1,3 @@
-Git-Assignment.md
+hello.txt
+*.log
+/credentials/^
