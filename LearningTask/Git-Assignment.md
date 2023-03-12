@@ -1,9 +1,12 @@
 
 # Git / Github
+Good Day!
 
-Dear All, 
-Here is the Git assignment, complete these tasks and share output  (file/Picture/code)
+Dear All,
+Here is the Git assignment, complete these tasks and share output (file/Picture/code) via Google drive to TA (Mr. Hassan)
 
+Due Date: 23rd March 2023-2359 PKT
+ 
 **Assignment**
 
 1. Download the website from following url in a directory `https://www.free-css.com/assets/files/free-css-templates/download/page284/built-better.zip`using linux command.
