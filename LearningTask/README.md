@@ -9,7 +9,12 @@ Here are some *Instruction* for Learning Task & practice , You can complete and 
 
 Duration and time of each task is mentioned in file.
 
+## Quiz
+- [Linux Task 01](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/Linux-ClassTask-01.md) 
 
-- [Linus Task 01](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/Linux-ClassTask-01.md) 
+## Assignment
+- [Linux - 01](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/Linux-Assignment-01.md)
+
+- [Git - 01](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/Git-Assignment-01.md)
 
 Wish you good luck 🤞 
