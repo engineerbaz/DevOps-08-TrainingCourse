@@ -1,5 +1,5 @@
 
-# Linux-Assignment-DevOps Kanwal
+# Linux Assignment
 ## Due Date: 3rd March 2023-2359 PKT
 ### TASKS
 ```
