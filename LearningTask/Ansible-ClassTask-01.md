@@ -15,5 +15,5 @@ Note:
 3.Write a playbook for webserver for installing, starting service and also make a file named as index.html and copy this file to default location of nginx webserver so website will be visible
 4. Write a playbook with array for printing name of students in alphetical order.
 5. Using Gather Facts values, write a playbook for printing **ansible_kernel**, **ansible_hostname** and **ansible_distribution**.
-6. Using Task 2, Deploy a website using this code 
-7. 
+6. Write a playbook to take package name as input and install on basis of confiyioin. (Hint : Condition and Variable) 
+ 
