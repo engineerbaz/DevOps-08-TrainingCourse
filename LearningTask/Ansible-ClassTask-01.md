@@ -14,4 +14,6 @@ Note:
 2. Write a playbook for installing **git**, **apache webserver** , **libapache2-mod-php** and **a database** of your choice (hint: Try using loop) 
 3.Write a playbook for webserver for installing, starting service and also make a file named as index.html and copy this file to default location of nginx webserver so website will be visible
 4. Write a playbook with array for printing name of students in alphetical order.
-5. 
+5. Using Gather Facts values, write a playbook for printing **ansible_kernel**, **ansible_hostname** and **ansible_distribution**.
+6. Using Task 2, Deploy a website using this code 
+7. 
