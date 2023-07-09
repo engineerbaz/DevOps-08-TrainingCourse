@@ -13,10 +13,10 @@ Please start this quiz and try completing in 40minutes
 
 ## Task 02
 
-Create a namespace k8-lab2
-Create a file called deploy.yaml that declares a deployment with name nginx-deploy in the recetly created namespace, with three replicas running the nginx:1.16 image. Each pod should have the label app=revproxy. The deployment can have the label client=user.
-Create a new Deployment in the namespace with the below attributes using your own deployment definition file: Name: httpd-fe; Replicas: 3; Image: httpd:2.4-alpine
-Delete the namespace created in the first step
+- Create a namespace k8-lab2
+- Create a file called deploy.yaml that declares a deployment with name nginx-deploy in the recetly created namespace, with three replicas running the nginx:1.16 image. Each pod should have the label app=revproxy. The deployment can have the label client=user.
+- Create a new Deployment in the namespace with the below attributes using your own deployment definition file: Name: httpd-fe; Replicas: 3; Image: httpd:2.4-alpine
+- Delete the namespace created in the first step
 
 ## Important 
 Tasks to be done during the week 
