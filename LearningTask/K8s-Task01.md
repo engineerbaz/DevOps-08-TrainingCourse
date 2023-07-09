@@ -1,5 +1,7 @@
 # Kubernetes Task 01
 
+Please start this quiz and try completing in 40minutes
+
 ## Task 1
 
 1. Make a nginx Pod and delete after use. 
