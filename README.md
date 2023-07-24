@@ -14,7 +14,8 @@ This repository is Repo for Batch 08 of DevOps Course with Sherdil IT Academy.
 
 ## Quiz / Class Task
 
-- [Docker Task 01](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/Docker-ClassTask-01.md) 
+- [Docker Task 01](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/Docker-ClassTask-01.md)
+- [Kubernetes Task](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/K8s-Task01.md)
 - [Ansible Task 01](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/Ansible-ClassTask-01.md) 
 - [Linux Task 01](https://github.com/engineerbaz/DevOps-08-TrainingCourse/blob/main/LearningTask/Linux-ClassTask-01.md) 
 
