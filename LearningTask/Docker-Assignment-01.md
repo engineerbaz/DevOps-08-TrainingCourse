@@ -5,7 +5,6 @@ Good Day!
 Dear All,
 Here is the Docker assignment, complete these tasks and share output (file/Picture/code) via Google drive to TA (Mr. Syed Aun)
 
-Due Date: 24th June 2023-2359 PKT
 
 
 ## Section 1 : Installation Setup 
