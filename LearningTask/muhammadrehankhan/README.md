@@ -246,8 +246,8 @@ Thanks for your support :)
 
 ###cicd github_action
 ```
-mkdir .workflow 
-nano .workflow/deploy.yml
+mkdir .github/workflow/
+nano .github/workflow/deploy.yml
 ```
 ```
 name: live Uat Environment
